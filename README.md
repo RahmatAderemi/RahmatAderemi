@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahmatAderemi
 - 👀 I’m interested in Python for molecular biology, R programming, Linux
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently looking for PhD opportunities in cancer research.
 - 💞️ I’m looking to collaborate on analysis of big biological data sequences
 - 📫 How to reach me rahmatshaibu95@gmail.com
 
